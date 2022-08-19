@@ -1,0 +1,27 @@
+﻿  Board.cpp
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(63,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(63,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(64,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(64,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(66,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(66,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(68,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(68,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(70,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(70,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(78,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(79,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(80,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(81,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(262,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(273,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(285,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(297,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(335,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(343,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(359,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(370,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(378,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikos\source\repos\Minesweeper\Board.cpp(386,21): warning C4018: '<': signed/unsigned mismatch
+  Minesweeper.vcxproj -> C:\Users\nikos\source\repos\Minesweeper\Debug\Minesweeper.exe

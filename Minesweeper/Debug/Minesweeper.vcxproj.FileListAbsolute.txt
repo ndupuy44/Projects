@@ -1,0 +1,2 @@
+C:\Users\nikos\source\repos\Minesweeper\Debug\Minesweeper.exe
+C:\Users\nikos\source\repos\Minesweeper\Debug\Minesweeper.pdb
