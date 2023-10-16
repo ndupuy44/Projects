@@ -1,3 +1,0 @@
-C:/Users/nikos/CLionProjects/Image Proccessing/cmake-build-debug/CMakeFiles/Image_Proccessing.dir
-C:/Users/nikos/CLionProjects/Image Proccessing/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/nikos/CLionProjects/Image Proccessing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
