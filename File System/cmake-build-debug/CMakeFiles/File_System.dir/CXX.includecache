@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nikos/CLionProjects/File System/Wad.h
+iostream
+-
+fstream
+-
+algorithm
+-
+vector
+-
+queue
+-
+
+C:/Users/nikos/CLionProjects/File System/main.cpp
+iostream
+-
+Wad.h
+C:/Users/nikos/CLionProjects/File System/Wad.h
+
