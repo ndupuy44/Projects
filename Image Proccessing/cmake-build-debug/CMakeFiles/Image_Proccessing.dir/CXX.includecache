@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nikos/CLionProjects/Image Proccessing/TgaData.h
+iostream
+-
+fstream
+-
+
+C:/Users/nikos/CLionProjects/Image Proccessing/main.cpp
+iostream
+-
+fstream
+-
+TgaData.h
+C:/Users/nikos/CLionProjects/Image Proccessing/TgaData.h
+
